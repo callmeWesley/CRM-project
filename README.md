@@ -39,11 +39,16 @@ A web-based CRM dashboard built using **React** that helps manage customer infor
 
 src/
 ├── components/
+
 │   └── Navbar.js
+
 ├── styles/
 │   └── Navbar.css
+
 ├── assets/
+
 │   └── logo.png
+
 │   └── user-icon.png
 ...
 
